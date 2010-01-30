@@ -13,4 +13,4 @@ I pretend to share the source code from all dojo sessions I eventually attend in
 
 #Dojo List
 
-1. javascriptWaterFlow - attended 2010-01-29 @cpartybr - I've made an Javascript equivalent to the main code developed in Java by the team.
+1. [javascriptWaterFlow](http://github.com/irae/iraedojos/tree/master/javascriptWaterFlow) - attended 2010-01-29 @cpartybr - I've made an Javascript equivalent to the main code developed in Java by the team.
